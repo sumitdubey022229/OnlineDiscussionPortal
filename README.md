@@ -8,8 +8,10 @@ This project till now contains :
   
   SQL Tables:
   users
-  Quesrions
+  Questions
   Answers
+  Followers
+  Downvotes
   
   
   
@@ -21,3 +23,9 @@ This project till now contains :
     Update Name
     Update Desc
     Update Occu
+    Update Password
+    Suggest Questions from database while typing
+    Downvote question
+    Follow users
+    
+    
