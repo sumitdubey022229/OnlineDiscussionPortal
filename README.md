@@ -15,7 +15,7 @@ This project till now contains :
   
   
   
-  Default username :Sumit4321
+  Default username :Sumit****
   Default Password:*********
   
   
@@ -25,7 +25,10 @@ This project till now contains :
     Update Occu
     Update Password
     Suggest Questions from database while typing
+    Suggest tags
     Downvote question
     Follow users
+    Answer add
+    Question add
     
     
